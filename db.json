@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "answer": "typicode",
+      "rating": 5,
+      "categoryId": "javaScript",
+      "labelIds": [
+        "react"
+      ]
+    },
+    {
+      "title": "Vitalya",
+      "answer": "Testit",
+      "rating": 0,
+      "categoryId": "javaScript",
+      "labelIds": [
+        "react",
+        "node"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Как стать сеньором с нуля за 2 месяца",
+      "answer": "Никак :(",
+      "rating": 0,
+      "categoryId": "javaScript",
+      "labelIds": [
+        "react"
+      ],
+      "id": 3
+    },
+    {
+      "title": "What is success",
+      "answer": "Success is when everything is working",
+      "rating": 0,
+      "categoryId": "javaScript",
+      "labelIds": [
+        "react"
+      ],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": "javaScript",
+      "title": "JavaScript"
+    },
+    {
+      "id": "java",
+      "title": "Java"
+    }
+  ],
+  "labels": [
+    {
+      "id": "react",
+      "title": "React"
+    },
+    {
+      "id": "node",
+      "title": "Node"
+    }
+  ],
+  "applications": [
+    {
+      "id": "questionBook",
+      "title": "Question book",
+      "url": "questionsBook",
+      "categoryId": "javaScript"
+    },
+    {
+      "id": "interviewVideos",
+      "title": "Interview Videos",
+      "url": "interviewVideos",
+      "categoryId": "javaScript"
+    }
+  ]
+}
